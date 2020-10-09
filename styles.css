@@ -1,0 +1,54 @@
+body {
+    background-color: #79ff4d;
+}
+
+.back {
+    position: absolute;
+    border-radius: 10%;
+    background-color: #33004d;
+    width: 250px;
+    height: 320px;
+    left: 40%;
+    top: 200px;
+}
+
+.readonly {
+    position: relative;
+    width: 220px;
+    left: 15px;
+    top: 20px;
+    height: 40px;
+}
+
+.readonly input {
+    position: relative;
+    left: 2px;
+    top: 2px;
+    height: 35px;
+    color: rgb(253, 249, 249);
+    background-color: #757374;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.key {
+    position: relative;
+    top: 30px;
+}
+
+.button {
+    width: 41px;
+    height: 32px;
+    border: none;
+    margin-left: 14px;
+}
+
+.button.one {
+    color: white;
+    background-color: #b300b3;
+}
+
+.button.two {
+    color: black;
+    background-color: #ffe6ff;
+}
